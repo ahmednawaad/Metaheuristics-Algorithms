@@ -47,4 +47,4 @@ if __name__ == '__main__':
     node_h.adjacency_list.extend([node_c, node_b])
 
     # Run BFS
-    breadth_first_search_(node_a)
+    breadth_first_search(node_a)
